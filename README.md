@@ -1,10 +1,8 @@
 # Satellite-Enabled Precision Agriculture: Machine Learning Classification of Cropland Using Sentinel-2 Imagery
 A machine learning project that classifies agricultural cropland versus non-cropland areas using Sentinel-2 satellite imagery and spectral analysis techniques.
-
+This project demonstrates the application of remote sensing and machine learning techniques to classify land use patterns in the Brong-Ahafo region of Ghana. Using Sentinel-2 satellite data, the analysis achieves 100% accuracy in distinguishing between agricultural cropland and non-cropland areas through spectral band analysis and vegetation indices.
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-JavaScript-green.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-## Project Overview
-This project demonstrates the application of remote sensing and machine learning techniques to classify land use patterns in the Brong-Ahafo region of Ghana. Using Sentinel-2 satellite data, we achieve **100% accuracy** in distinguishing between agricultural cropland and non-cropland areas through spectral band analysis and vegetation indices.
 
 ## Technologies & Tools
 ### **Remote Sensing & Data Collection**
